@@ -35,6 +35,6 @@ Prerequisites
 
 * mongo (open mongo console)
 
-* use Tododb (create nodetestdb database)
+* use Tododb (create Tododb database)
 
 * Open your postman and type: http://localhost:3000/tasks then try GET, POST api.
